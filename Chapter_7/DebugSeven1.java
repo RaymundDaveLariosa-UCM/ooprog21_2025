@@ -1,4 +1,3 @@
-// Makes String comparisons
 import java.util.*;
 
 public class DebugSeven1
@@ -34,3 +33,4 @@ public class DebugSeven1
             System.out.println(" are different");
     }
 }
+
